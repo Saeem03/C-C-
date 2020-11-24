@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606242283 source:d:\c++ problems\sabit\main.c
+	<stdio.h>
+	<stdlib.h>
+
