@@ -1,0 +1,1 @@
+in this tutorial, we will learn how to read contents of file in c programming language. you can modify the program to read contents from multiple files if you want. the program will read the contents character by character and it will print out the reading character to the user.
